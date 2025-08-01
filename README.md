@@ -22,7 +22,9 @@ Also, I'm a founder and product lead for a digital health startup for structured
 
 ## 📚 Courses & Learning Journey
 
-- ✅ **Deep Learning Specialization** – Coursera (Andrew Ng) *(in progress)* 
+- ✅ **Programming for Data Science with Python** – Udacity Nanodegree
+- ✅ **Neural Networks and Deep Learning** – Deeplearning.Ai
+- ✅ **Machine Learning Specialization** - Deeplearning.Ai & Stanford Online
 - 🔄 **AI for Medicine** – DeepLearning.AI   
 
 
