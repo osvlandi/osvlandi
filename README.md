@@ -31,7 +31,7 @@ Also, I'm a founder and product lead for a digital health startup for structured
 
 ## 🧭 Areas of Interest
 
-- AI-powered medical imaging solutions for diagnostics, monitoring, and digital devices
+- AI-powered medical imaging solutions for diagnostics, planing and monitoring.
 - Digital health product development
 - Agentic AI for healthcare workflow automation
 - Imaging biomarkers for clinical trials and drug development 
