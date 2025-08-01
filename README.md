@@ -48,4 +48,3 @@ Also, I'm a founder and product lead for a digital health startup for structured
 ---
 
 ⚡ Exploring how AI can improve access, efficiency, and safety in healthcare.  
-I'm always interested in opportunities where I can blend my medical background with product strategy and AI to build innovative digital health solutions.
