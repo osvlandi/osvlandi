@@ -22,10 +22,10 @@ Also, I'm a founder and product lead for a digital health startup for structured
 
 ## 📚 Courses & Learning Journey
 
-- [x] AI for Medicine – DeepLearning.AI
-- [ ] Deep Learning Specialization – Coursera (Andrew Ng)
-- [ ] NLP with Transformers – Hugging Face
-- [ ] FastAI – Practical Deep Learning
+- ✅ **Deep Learning Specialization** – Coursera (Andrew Ng) *(in progress)* 
+- 🔄 **AI for Medicine** – DeepLearning.AI   
+
+
 
 ---
 
