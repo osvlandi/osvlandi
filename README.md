@@ -31,11 +31,10 @@ Also, I'm a founder and product lead for a digital health startup for structured
 
 ## 🧭 Areas of Interest
 
-- Artificial Intelligence for public health systems
-- Medical imaging and computer vision
-- Large Language Models (LLMs) for clinical text
-- Explainable AI (XAI)
+- AI-powered medical imaging solutions for diagnostics, monitoring, and digital devices
+- Digital health product development
 - Agentic AI for healthcare workflow automation
+- Imaging biomarkers for clinical trials and drug development 
 
 ---
 
@@ -43,7 +42,7 @@ Also, I'm a founder and product lead for a digital health startup for structured
 
 - [LinkedIn](https://www.linkedin.com/feed/)
 - [ORCID](https://orcid.org/0000-0002-8759-4475)
-- GitHub: [@osvlandi](https://github.com/osvlandi)
+- [Github](https://github.com/osvlandi)
 
 ---
 
