@@ -16,7 +16,7 @@ Also, I'm a co-founder and product lead for a digital health startup for structu
 | [📊 Data Analysis](https://github.com/osvlandi/data_analysis) | Exploratory data analysis and visualization notebooks. | Pandas, Matplotlib, Seaborn |
 | [🌐 Web Dev](https://github.com/osvlandi/web_dev) | Basic web development experiments (archived). | HTML, CSS |
 
-🔧 *More projects in medical imaging and clinical LLMs coming soon...*
+🔧 *More projects in AI applications for medicine coming soon...*
 
 ---
 
