@@ -25,7 +25,7 @@ Also, I'm a co-founder and product lead for a digital health startup for structu
 - ✅ **Programming for Data Science with Python** – Udacity Nanodegree
 - ✅ **Neural Networks and Deep Learning** – Deeplearning.Ai, by Andrew Ng
 - ✅ **Machine Learning Specialization** - Deeplearning.Ai & Stanford Online, by Andrew Ng
-- 🔄 **AI for Medicine** – DeepLearning.AI, by Andrew Ng and Pranav Rajpurkar 
+- 🔄 [AI for Medicine](https://github.com/osvlandi/AI_for_medicine) – DeepLearning.AI, by Andrew Ng and Pranav Rajpurkar  
 
 ---
 
