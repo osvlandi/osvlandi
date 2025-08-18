@@ -42,7 +42,7 @@ Also, I'm a co-founder and product lead for a digital health startup for structu
 
 - [LinkedIn](https://www.linkedin.com/feed/)
 - [ORCID](https://orcid.org/0000-0002-8759-4475)
-- [Github](https://github.com/osvlandi)
+- [Kaggle](https://www.kaggle.com/osvlandijr)
 
 ---
 
