@@ -4,7 +4,7 @@ I'm a medical doctor specialized in Radiology, with fellowship in Imaging Inform
 
 I work as the innovation manager for FIDI, a non-profit organization where I lead AI projects for healthcare with real impact on public health, such as this one: [AI for Chest X-Rays In Emergency](https://epocanegocios.globo.com/inteligencia-artificial/ia-na-pratica/noticia/2025/05/ia-reduz-espera-de-resultado-de-raio-x-de-torax-de-uma-hora-para-5-minutos-em-pronto-socorro-do-hspe.ghtml)
 
-Also, I'm a co-founder and product lead for a digital health startup for structured reporting: [nReport](https://www.ionic.health/nreport).
+Also, I'm a co-founder and product lead for a digital health startup for structured reporting in ultrasound: [nReport](https://www.ionic.health/nreport).
 
 ---
 
